@@ -44,6 +44,7 @@ controller[
 routes(blogroutes)----->>routing the controllers
 
 models[
+
     (1)postschema.js
     (2)commentschema.js
     (3)likeschema.js
