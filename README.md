@@ -52,4 +52,4 @@ models[
 
 ]----->>schema of database
 
-🚀!!Thank you for visiting! Feel free to explore the codebase and experience the todo-app!!🚀
+🚀!!Thank you for visiting! Feel free to explore the codebase and experience the Blog-app!!🚀
